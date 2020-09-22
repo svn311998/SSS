@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Simple HTML Document</title>
+</head>
+<body>
+ <h1>Heading of this Document</h1>
+ <hr>
+ <div>
+  <h2>Sub Heading for this Document</h2>
+  <p>Contents of this document</p>
+ </div>
+ <div>
+  <hr>
+  &copy; Copyrights Phaniraj.Inc-2020
+ </div>
+</body>
+</html>
