@@ -25,7 +25,7 @@
         width: 90%;
     }
     
-    select
+    select 
     {
         width: 50%;
     }
